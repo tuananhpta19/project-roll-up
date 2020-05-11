@@ -1,5 +1,6 @@
 var mongoose = require('mongoose');
-ss
+var Schema = mongoose.Schema;
+
 
 var InfoStudentSchema = new Schema({
     point: {
