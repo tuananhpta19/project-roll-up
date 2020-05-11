@@ -1,6 +1,4 @@
-var mongoose = require('../config/connectDB');
-
-
+var mongoose = require('mongoose');
 var ClassSchema = new Schema({
     nameClass: String,
     idAccount: [{
