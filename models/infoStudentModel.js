@@ -1,4 +1,6 @@
-var mongoose = require('../config/connectDB');
+var mongoose = require('mongoose');
+var Schema = mongoose.Schema;
+
 
 var InfoStudentSchema = new Schema({
     point: {

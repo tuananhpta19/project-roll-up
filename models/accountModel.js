@@ -1,4 +1,4 @@
-var mongoose = require('../config/dbConnect');
+var mongoose = require('mongoose');
 
 var Schema = mongoose.Schema;
 

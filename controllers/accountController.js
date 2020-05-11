@@ -1,1 +1,1 @@
-var {accountController,classController} = require('./index')
+var { classServices, accountServices } = require("../services/index")

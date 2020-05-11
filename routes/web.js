@@ -9,4 +9,4 @@ var initRouter = (app)=>{
 
  app.use("/",router)
 }
-module.exports= initRouter;
+module.exports = initRouter;
